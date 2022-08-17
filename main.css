@@ -149,3 +149,10 @@ footer p {
     width: 100%;
   }
 }
+
+/* just for fun */
+.commit{
+  font-size:13px;
+  font-weight: 500;
+};
+
